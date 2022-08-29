@@ -1,20 +1,17 @@
-<<<<<<< HEAD
-# Projeto de testes com Cypress, React e Gherkin
+# Projeto de automação de testes com Cypress, React e Gherkin
 
 ## Executar o projeto
 
-No diretorio do projeto execute:
+Num console no diretorio do projeto:
 
-### `npm start`
+### execute `npm start`
 
-Abra outro console e execute:
-### `./node_modules/.bin/cypress open`
+Abra outro console no diretorio do projeto:
+### execute `./node_modules/.bin/cypress open`
 
-Escolha a opção E2E Testing
+1. Escolha a opção E2E Testing
 
-Abra no navegador de sua preferencia
+2. Abra no navegador de sua preferencia
 
-Escolha o arquivo spec `toggle.feature`
+3. Escolha o arquivo spec `toggle.feature`
 =======
-# gherkin
->>>>>>> 1b4b15ca832c79ed25df1c57b18e64666a167992
