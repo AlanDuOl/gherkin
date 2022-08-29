@@ -2,16 +2,15 @@
 
 ## Executar o projeto
 
-Num console no diretorio do projeto:
+1. Num console no diretorio do projeto:
+  execute `npm start`
 
-### execute `npm start`
+2. Abra outro console no diretorio do projeto:
+  execute `./node_modules/.bin/cypress open`
 
-Abra outro console no diretorio do projeto:
-### execute `./node_modules/.bin/cypress open`
+3. Escolha a opção E2E Testing
 
-1. Escolha a opção E2E Testing
+4. Abra no navegador de sua preferencia
 
-2. Abra no navegador de sua preferencia
-
-3. Escolha o arquivo spec `toggle.feature`
+5. Escolha o arquivo spec `toggle.feature`
 =======
